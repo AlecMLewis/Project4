@@ -4132,7 +4132,7 @@ select:not([multiple]) {
           flex: 1 1 0px;
 }
 .button-group.primary .button, .button-group.primary .button.disabled, .button-group.primary .button[disabled], .button-group.primary .button.disabled:hover, .button-group.primary .button[disabled]:hover, .button-group.primary .button.disabled:focus, .button-group.primary .button[disabled]:focus {
-  background-color: #1779ba;
+  background-color: #800080;
   color: #fefefe;
 }
 .button-group.primary .button:hover, .button-group.primary .button:focus {
