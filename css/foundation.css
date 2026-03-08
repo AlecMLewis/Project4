@@ -227,7 +227,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: linear-gradient(90deg,rgba(161, 68, 207, 1) 0%, rgba(83, 191, 237, 1) 100%);
+  background: rgb(161, 68, 207) 
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
